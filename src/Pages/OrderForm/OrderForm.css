@@ -1,0 +1,17 @@
+.section input,select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    margin: auto;
+    padding: 5px 7px;
+}
+.section{
+    background-color:lightgray;
+    padding: 30px;
+    margin-top: 30px;
+}
+.section input,select {
+    margin-top: 10px;
+    border-radius: 10px;
+}

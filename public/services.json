@@ -1,0 +1,44 @@
+[
+    {
+        "name": "TOUR TO INDIA",
+        "price": "30000",
+        "description": "india is a wonderfull country for travelling. this country is bound with natural beauty. all of beauty are waiting for you.",
+        "long-description": "India is a canvas of beauty and colors. Starting from unique culture to international styled destinations, India is a land for everyone. Are you looking for traveling in a shoestring budget? India has numerous spots for backpackers, just like you. Are you looking for a vacation fit for the kings? India is riddled with luxury trains, boutique hotels, heritage spots and much more. It is all about how you are planning to spend your time and India is an amoeba, which would transform into a personalized paradise, just for you. There are so many best places to visit in India.",
+        "img": "https://www.tourmyindia.com/socialimg/india-tour-packages.jpg"
+    },
+    {
+        "name": "TOUR TO SWITZERLAND",
+        "price": "30000",
+        "description": "switzerland is the most beautyfull country in the world. the hole country and their people is bound with wonder. people just love to travel switzerland.",
+        "long-description": "The Matterhorn and Switzerland are inseparably linked to each other. The pyramid shaped colossus of a mountain, which is very difficult to climb, is said to be the most-photographed mountain in the world. The Klein-Matterhorn (Little Matterhorn), which can be reached via a funicular, lies adjacent to the Matterhorn.",
+        "img": "https://www.swisstours.com/images/holiday_revamp/banner.jpg"
+    },
+    {
+        "name": "TOUR TO AUSTRALIA",
+        "price": "30000",
+        "description": "Australia is a highly developed country, with the world's twelfth-largest economy. It has a high-income economy, with the world's tenth-highest per capita income",
+        "long-description": "Cable Beach is located in Broome in Western Australia and is considered by some to be this states most popular destination. It is a stunning beach, known for its white sands, beautiful sunsets and the brilliant blue waters of the Indian Ocean. Cable Beach is also famous for its camel rides on the beach. Those who prefer motorized transportation can choose to cross the sands in a four-wheel-drive vehicle instead.",
+        "img": "https://4.bp.blogspot.com/-IohXweWwL4c/VVsUZBptKII/AAAAAAAAAbM/nVq65SsUkOU/s1600/sydney-superb-view-australia-city-architecture.jpg"
+    },
+    {
+        "name": "TOUR TO PANJSHIR",
+        "price": "24000",
+        "description": "Panjshir (Dari/Pashto: پنجشیر, literally FiveLions, also spelled as Panjsher and Panjsheer) is one of the thirty-four provinces of Afghanistan, located in the northeastern part of the country containing the Panjshir Valley.",
+        "long-description": "A newer province of Afghanistan, Panjshir Province was split off of Parwan Province in 2004. With jagged snowcapped peaks forming its boundaries, the Tajik stronghold of Panjshir Valley has remained one of Afghanistan’s most inaccessible regions.",
+        "img": "https://i.pinimg.com/originals/92/1e/05/921e05aa45b1f3ca20b4cd108a413713.jpg"
+    },
+    {
+        "name": "TOUR TO BANGLADESH",
+        "price": "10000",
+        "description": "bangladesh is a natural beautyful country.you can find hare the raw natural beauty.a lots of turist spot hare that you can visit and enjoy.",
+        "long-description": "Tourist Attraction in Bangladesh, a beautiful small country in South Asia bordering with India and Myanmar is yet to be developed in tourism. Though there are many beautiful places here to visit, it is one of the least tourist destinations in the world. The people here are very friendly and hospitable. They welcome tourist everywhere and try to help them. To make a list of the best places in a country is always very hard and disputable. From my visiting experience in Bangladesh, I’ve created this list.   So, here is a list of the 20 best places to visit in Bangladesh for you.",
+        "img": "https://kundutirthoovraman.com/wp-content/uploads/2018/11/bangladesh-feature-image-02-1500x844.jpg"
+    },
+    {
+        "name": "TOUR TO NEPAL",
+        "price": "40000",
+        "description": "Nepal, country of Asia, lying along the southern slopes of the Himalayan mountain ranges. It is a landlocked country located between India to the east, south, and west and the Tibet Autonomous Region of China to the north.",
+        "long-description": "Journey into Nepal's Tibetan region of Mustang, a once-forbidden kingdom, where we hike through otherworldly landscapes, witness the colorful Tiji festival, and see 15th century murals in Mustang's ancient monasteries",
+        "img": "https://www.nepaltour.info/wp-content/uploads/2015/07/pokhara-e1477299796656.jpg"
+    }
+]
